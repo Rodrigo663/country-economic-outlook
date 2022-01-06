@@ -6,7 +6,7 @@ This tool allows you to visually compare two countries in three different aspect
 
 # How to use:
 
-**STEP 1 -** Run the three cells of script.ipynb in Jupyter Notebook
+**STEP 1 -** Run the three cells of script.ipynb in Jupyter Notebook;
 
 **STEP 2 -** Choose an aspect to compare:
 
