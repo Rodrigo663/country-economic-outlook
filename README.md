@@ -16,7 +16,7 @@ This tool allows you to visually compare two countries in three different aspect
 
 ![q2](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/q2.png)
 
-**STEP 4 -** Press enter to get a beautiful vizualization:
+**STEP 4 -** Press enter to get the beautiful vizualization:
 
 ![graph](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/graph.png)
 
