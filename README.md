@@ -1,6 +1,6 @@
 # Country Economy Outlook
 
-This tool allows you to vizually compare two countries in three aspects: Human Development Index, GDP Nominal, or GDP per capita. The data is extracted from the following source:
+This tool allows you to visually compare two countries in three different aspects: Human Development Index, GDP Nominal, and GDP per capita. The data is extracted from the following source:
 
 [Country Economy](https://countryeconomy.com/).
 
