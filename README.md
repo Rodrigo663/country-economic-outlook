@@ -2,7 +2,7 @@
 
 This tool allows you to visually compare two countries in three different aspects: Human Development Index, GDP Nominal, and GDP per capita. The data is extracted from the following source:
 
-[Country Economy](https://countryeconomy.com/).
+[Country Economy](https://countryeconomy.com/)
 
 # How to use:
 
