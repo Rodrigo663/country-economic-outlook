@@ -4,7 +4,7 @@ This tool allows you to vizually compare two countries in three aspects: Human D
 
 [Country Economy](https://countryeconomy.com/).
 
-# HOW TO USE:
+# How to use:
 
 **STEP 1:** Run the three cells of script.ipynb in Jupyter Notebook
 **STEP 2:** Choose an aspect to compare:
@@ -17,8 +17,9 @@ This tool allows you to vizually compare two countries in three aspects: Human D
 ![q2](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/q2.png)
 
 
-**STEP 4:** Press enter once again and you´ll have a beautiful vizualization:
+**STEP 4:** Press enter to get a beautiful vizualization:
 
 ![graph](https://github.com/Rodrigo663/country-economic-outlook/blob/main/assets/graph.png)
 
-The generated image will also be saved as *vizualization.png*
+The generated image will be saved as *vizualization.png*
+
